@@ -1,0 +1,30 @@
+{
+  "name": "thesystemandroid",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "Solo",
+    "Leveling"
+  ],
+  "homepage": "https://github.com/Epoch2222/The-System-Android#readme",
+  "bugs": {
+    "url": "https://github.com/Epoch2222/The-System-Android/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Epoch2222/The-System-Android.git"
+  },
+  "license": "ISC",
+  "author": "Epoch",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.0"
+  }
+}
